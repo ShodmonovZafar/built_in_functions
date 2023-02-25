@@ -1,11 +1,11 @@
 import csv
 
 # path to the file
-path_csv_file = 'csv_files/csv_1.csv'
-path_text_file = "text_files/text.txt"
-path_text_file2 = "text_files/text2.txt"
+path_csv_file = 'open/csv_files/csv_1.csv'
+path_text_file = "open/text_files/text.txt"
+path_text_file2 = "open/text_files/text2.txt"
 
-with open(path_text_file) as text_file:
+with open(path_text_file, "w") as text_file:
     pass
 
 with open(path_text_file2, "w") as text_file2:

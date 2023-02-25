@@ -1,3 +1,0 @@
-Tartib raqam,Faniliya va Ism, Tug'ulgan yil
-1,Shodmonov Zafar,1996
-2,Nazarov Abdurahmon,2002
